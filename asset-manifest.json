@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ToggleBoxUsingReact/static/css/main.6c9bd0c1.css",
+    "main.js": "/ToggleBoxUsingReact/static/js/main.0db7d92c.js",
+    "static/js/453.aa5e3d65.chunk.js": "/ToggleBoxUsingReact/static/js/453.aa5e3d65.chunk.js",
+    "index.html": "/ToggleBoxUsingReact/index.html",
+    "main.6c9bd0c1.css.map": "/ToggleBoxUsingReact/static/css/main.6c9bd0c1.css.map",
+    "main.0db7d92c.js.map": "/ToggleBoxUsingReact/static/js/main.0db7d92c.js.map",
+    "453.aa5e3d65.chunk.js.map": "/ToggleBoxUsingReact/static/js/453.aa5e3d65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c9bd0c1.css",
+    "static/js/main.0db7d92c.js"
+  ]
+}
